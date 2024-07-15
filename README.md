@@ -32,7 +32,7 @@ This project implements a comprehensive ETL (Extract, Transform, Load) pipeline 
 ### 6. Data Visualization with Power BI
 + **Technology Used :** AWS Redshift, Power BI
 + **Description :** Connect Power BI Desktop to AWS Redshift to load the data for visualization. This enables the creation of interactive and insightful visualizations based on the transformed data stored in Redshift.
-+ **BI file :** Sales Data BI Analysis.bi
++ **BI file :** Sales Data BI Analysis.pbix
 
 ### Important Libraries Used
 
