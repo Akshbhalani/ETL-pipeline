@@ -34,7 +34,7 @@ This project implements a comprehensive ETL (Extract, Transform, Load) pipeline 
 + **Description :** Connect Power BI Desktop to AWS Redshift to load the data for visualization. This enables the creation of interactive and insightful visualizations based on the transformed data stored in Redshift.
 + **BI file :** Sales Data BI Analysis.pbix
 
-### Important Libraries Used
+## Important Libraries Used
 
 **psycopg2**
 + 'psycopg2' is a PostgreSQL adapter for Python. It allows Python code to execute PostgreSQL commands in a database session.
